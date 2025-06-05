@@ -1,0 +1,2 @@
+# PalindromeChecker
+This project has a function, isPalindrome(String str), that takes a string as input and returns true if the string is a palindrome (reads the same forwards and backward, ignoring case and non-alphanumeric characters), and false otherwise. Constraint: Using at least one stack and at least one queue in your solution. Leverage their properties to efficiently determine if the string is a palindrome. Example: isPalindrome("Racecar") should return true. isPalindrome("A man, a plan, a canal: Panama")should return true. isPalindrome("Hello") should return false.
